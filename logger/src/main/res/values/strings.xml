@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Logger</string>
+    <string name="service">http://logger.tecpool.in/service.asmx/</string>
+</resources>
